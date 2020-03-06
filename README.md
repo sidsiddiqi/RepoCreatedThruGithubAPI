@@ -1,1 +1,1 @@
-This repository was created throut a Github API POST request. 
+This repository was created through a Github API POST request. 
